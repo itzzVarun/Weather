@@ -1,4 +1,4 @@
-# Food Recipe Application
+# Weather Application
 
 This application enables users to get real-time weather information.
 
